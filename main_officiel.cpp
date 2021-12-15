@@ -1,15 +1,15 @@
 #include <iostream>
 #include <string>
 #include <deque>
-/*#if 1 //CREATE A REAL STL EXAMPLE
+/*#if 1 //CREATE A REAL STL EXAMPLE*/
 	#include <map>
 	#include <stack>
 	#include <vector>
-	namespace ft = std;*/
+	namespace ft = std;
 /*#else*/
-	#include "includes/map/map.hpp"
+	/*#include "includes/map/map.hpp"
 	#include "includes/stack/stack.hpp"
-	#include "includes/vector/vector.hpp"
+	#include "includes/vector/vector.hpp"*/
 /*#endif*/
 
 #include <stdlib.h>
